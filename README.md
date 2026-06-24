@@ -7,10 +7,11 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashok Kunchala</h1>
-<h3 align="center">A passionate DevOps Engineer from Hyderabad, India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi%20👋,%20I'm%20Ashok%20Kunchala;DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Specialist;AWS%20SAA%20Aspirant%20🚀;Home%20Lab%20🐧:%20Raspberry%20Pi%20K8s%20Cluster" alt="Typing SVG" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokkunchala&label=Profile%20views&color=0e75b6&style=flat" alt="ashokkunchala" /> </p>
+<h3 align="center">A passionate DevOps Engineer from Hyderabad, India</h3>
 
 ### 👨‍💻 About Me
 
