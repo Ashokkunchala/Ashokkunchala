@@ -204,7 +204,7 @@ Production-grade monitoring stack.
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="250"/>
 
@@ -214,7 +214,7 @@ Production-grade monitoring stack.
 
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ### ☁️ ECS Deployment
 
