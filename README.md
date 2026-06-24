@@ -47,7 +47,7 @@ DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 <table>
 <tr>
 
-<td width="55%">
+<td width="100%">
 
 ```yaml
 name: Ashok Kunchala
@@ -87,9 +87,9 @@ fun_fact:
 
 </td>
 
-<td width="350%">
+<td width="100%">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="3500"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/>
 
 </td>
 
