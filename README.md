@@ -113,6 +113,7 @@ Seeking challenging DevOps/SRE roles where I can architect and implement robust 
   <a href="mailto:ashokkunchala10299@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="ashokkunchala10299@gmail.com" height="30" width="40" /></a>
 </p>
 
+<p align="left"><a href="https://drive.google.com/file/d/1KaneoPD_WlcXZ1Kwx63oEmDOQbvUS60C/view?usp=drive_link" target="_blank">📄 View Resume</a></p>
 <!--
 **Ashokkunchala/Ashokkunchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
