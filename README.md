@@ -103,7 +103,7 @@ fun_fact:
 <table>
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ### 🚀 Strengths
 
@@ -116,7 +116,7 @@ fun_fact:
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 
