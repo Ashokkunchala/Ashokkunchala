@@ -87,9 +87,9 @@ fun_fact:
 
 </td>
 
-<td width="45%">
+<td width="350%">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="3500"/>
 
 </td>
 
