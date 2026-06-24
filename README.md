@@ -1,6 +1,6 @@
-<!-- =======================================================
-      ASHOK KUNCHALA - GITHUB PROFILE README
-======================================================= -->
+<!-- ==========================================
+           ASHOK KUNCHALA
+=========================================== -->
 
 <h1 align="center">Hi 👋, I'm Ashok Kunchala</h1>
 
@@ -9,16 +9,16 @@ DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Terraform+Automation+Specialist;Kubernetes+Practitioner;CI%2FCD+Pipeline+Builder;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Terraform+Automation+Specialist;Kubernetes+Practitioner;CI%2FCD+Pipeline+Builder;Always+Learning+New+Technologies+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashokkunchala&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Ashokkunchala&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 Welcome to My Digital Space
+# 🚀 Welcome To My Digital Space
 
 <p align="center">
 
@@ -44,6 +44,11 @@ DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 
 # 👨‍💻 About Me
 
+<table>
+<tr>
+
+<td width="55%">
+
 ```yaml
 name: Ashok Kunchala
 
@@ -52,7 +57,7 @@ location: Hyderabad, India
 role: DevOps Engineer
 
 experience:
-  - AWS Cloud
+  - AWS
   - Kubernetes
   - Terraform
   - Docker
@@ -61,146 +66,176 @@ experience:
 
 currently_learning:
   - AWS Solution Architect Associate
-  - Advanced Kubernetes
-  - GitOps
-  - ArgoCD
-  - OpenTelemetry
+  - EKS
+  - Terraform Modules
+  - Python Automation
+  - OpenSearch
 
 career_goal:
-  Become a Cloud & DevOps Architect
+  Cloud & DevOps Architect
 
 interests:
-  - Infrastructure Automation
-  - Cloud Native Technologies
-  - Site Reliability Engineering
+  - Automation
   - Platform Engineering
+  - Cloud Native
+  - Site Reliability
 
 fun_fact:
-  I enjoy building production-grade infrastructure in my home lab.
+  Building production-grade labs
+  on my local machine.
 ```
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🎯 What Makes Me Unique
 
-- ⚡ Infrastructure Automation Enthusiast
-- ☁️ Cloud-Native Problem Solver
-- 🚀 CI/CD Pipeline Builder
-- 📈 Cost Optimization Mindset
-- 🔥 Hands-on Home Lab Engineer
-- 🧠 Continuous Learner
-- 🛠️ DevOps First Approach
-- 🎯 Strong Troubleshooting Skills
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Strengths
+
+- Infrastructure Automation
+- CI/CD Design
+- Kubernetes Operations
+- AWS Cloud Engineering
+- Terraform IaC
+- Troubleshooting
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛣️ DevOps Journey
+# 🏠 Home Lab
 
-```text
-Linux                 ██████████ 100%
+<table>
+<tr>
 
-Git                   ██████████ 100%
+<td width="50%">
 
-Docker                ██████████ 100%
+### Environment
 
-Jenkins               █████████░ 90%
+- Windows 11
+- WSL Ubuntu 24.04
+- Docker
+- Kind Kubernetes
+- Jenkins
+- Terraform
+- AWS
 
-Terraform             █████████░ 90%
+</td>
 
-AWS                   ████████░░ 80%
+<td width="50%">
 
-Kubernetes            ████████░░ 80%
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="300"/>
 
-GitHub Actions        █████████░ 90%
+</td>
 
-Prometheus            ███████░░░ 70%
-
-Grafana               ███████░░░ 70%
-
-ArgoCD                █████░░░░░ 50%
-```
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-## ☁️ Cloud
+<p align="center">
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,linux,git,vscode"/>
 
----
-
-## 🚀 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</p>
 
 ---
 
-## 📊 Monitoring
+# ☁️ Cloud & DevOps Tools
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<p align="center">
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-## 💻 Programming
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### ☁️ Terraform ECS Deployment
+<table>
 
-Deploy production-ready applications on AWS ECS Fargate using Terraform.
+<tr>
 
-**Tech Stack**
+<td width="50%">
 
-```text
-AWS ECS
-Terraform
-GitHub Actions
-Docker
-```
+### ☸️ Kubernetes Monitoring
 
----
+- Prometheus
+- Grafana
+- Alertmanager
+- Loki
 
-### ☸️ Kubernetes Monitoring Stack
+Production-grade monitoring stack.
 
-Production-grade monitoring using:
+</td>
 
-```text
-Prometheus
-Grafana
-AlertManager
-Loki
-```
+<td width="50%">
 
----
+<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="250"/>
 
-### 💰 AWS Cost Optimization Toolkit
+</td>
 
-Automated scripts for:
+</tr>
 
-- Idle resource detection
-- Cost analysis
-- Resource rightsizing
-- Savings recommendations
+<tr>
+
+<td width="50%">
+
+### ☁️ ECS Deployment
+
+- Terraform
+- AWS ECS
+- GitHub Actions
+- Docker
+
+Fully automated deployments.
+
+</td>
+
+<td width="50%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="250"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -208,9 +243,9 @@ Automated scripts for:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashokkunchala&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashokkunchala&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkunchala&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkunchala&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -220,48 +255,31 @@ Automated scripts for:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ashokkunchala&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Ashokkunchala&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 Certifications
+# 📈 Activity Graph
 
-### Completed
+<p align="center">
 
-- AWS Cloud Practitioner
-- DevOps Fundamentals
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokkunchala&theme=tokyo-night"/>
 
-### In Progress
-
-- AWS Solutions Architect Associate
-
-### Planned
-
-- Certified Kubernetes Administrator (CKA)
-- Terraform Associate
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-- Advanced Kubernetes Networking
-- Service Mesh (Istio)
+- AWS Solution Architect Associate
+- Kubernetes Production Operations
+- Terraform Advanced Modules
+- GitOps
 - ArgoCD
-- OpenTelemetry
-- Platform Engineering
-- Site Reliability Engineering
-
----
-
-# 🤝 Open For
-
-- DevOps Projects
-- Cloud Migration Projects
-- Kubernetes Consulting
-- Infrastructure Automation
-- Open Source Contributions
+- OpenSearch
+- Python Automation
 
 ---
 
@@ -270,15 +288,15 @@ Automated scripts for:
 <p align="center">
 
 <a href="https://linkedin.com/in/ashok-kunchala-127820217">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:ashokkunchala10299@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://github.com/Ashokkunchala">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
 </p>
