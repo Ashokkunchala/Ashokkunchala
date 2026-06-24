@@ -35,7 +35,7 @@ DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 </a>
 
 <a href="https://drive.google.com">
-<img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge">
+<img src="https://drive.google.com/file/d/1fZSEfg2T4YuordNXl0Wav3fOe_3dezIX/view?usp=drive_link">
 </a>
 
 </p>
