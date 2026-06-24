@@ -100,7 +100,12 @@ Seeking challenging DevOps/SRE roles where I can architect and implement robust 
   <img src="assets/slide3.png" alt="Technical Slide 3" width="400"/>
 </p>
 
-### 📫 Connect With Me
+### 🤖 Robotics Images
+
+<p align="center">
+  <img src="assets/robot1.png" alt="Robotics Image 1" width="400"/>
+  <img src="assets/robot2.png" alt="Robotics Image 2" width="400"/>
+</p>### 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ashok-kunchala-127820217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashok-kunchala-127820217" height="30" width="40" /></a>
