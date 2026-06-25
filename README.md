@@ -329,32 +329,32 @@
 <tr>
 <td>☁️ Compute</td>
 <td>EC2, Lambda, ECS, EKS, Fargate</td>
-<td><img src="https://progress-bar.dev/90/?title=Expert&width=120"/></td>
+<td><img src="https://img.shields.io/badge/Expert-90%25-00C853?style=for-the-badge&logo=amazonaws"/></td>
 </tr>
 <tr>
 <td>📦 Storage</td>
 <td>S3, EBS, EFS, RDS</td>
-<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
+<td><img src="https://img.shields.io/badge/Advanced-85%25-00BFA5?style=for-the-badge&logo=amazonaws"/></td>
 </tr>
 <tr>
 <td>🌐 Networking</td>
 <td>VPC, Subnets, SG, ALB, Route53, CloudFront</td>
-<td><img src="https://progress-bar.dev/88/?title=Advanced&width=120"/></td>
+<td><img src="https://img.shields.io/badge/Advanced-88%25-00BFA5?style=for-the-badge&logo=amazonaws"/></td>
 </tr>
 <tr>
 <td>🔐 Security</td>
 <td>IAM, KMS, Secrets Manager, WAF</td>
-<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
+<td><img src="https://img.shields.io/badge/Advanced-85%25-00BFA5?style=for-the-badge&logo=amazonaws"/></td>
 </tr>
 <tr>
 <td>🔄 CI/CD</td>
 <td>CodePipeline, CodeBuild, CodeDeploy</td>
-<td><img src="https://progress-bar.dev/80/?title=Proficient&width=120"/></td>
+<td><img src="https://img.shields.io/badge/Proficient-80%25-FFB300?style=for-the-badge&logo=amazonaws"/></td>
 </tr>
 <tr>
 <td>📊 Monitoring</td>
 <td>CloudWatch, X-Ray, Config</td>
-<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
+<td><img src="https://img.shields.io/badge/Advanced-85%25-00BFA5?style=for-the-badge&logo=amazonaws"/></td>
 </tr>
 </table>
 
