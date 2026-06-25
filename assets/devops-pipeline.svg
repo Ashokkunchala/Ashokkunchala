@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0a2e"/>
+      <stop offset="100%" style="stop-color:#1a1a4e"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#48bb78"/>
+      <stop offset="100%" style="stop-color:#38a169"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4299e1"/>
+      <stop offset="100%" style="stop-color:#2b6cb0"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ed8936"/>
+      <stop offset="100%" style="stop-color:#dd6b20"/>
+    </linearGradient>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c"/>
+      <stop offset="100%" style="stop-color:#c0392b"/>
+    </linearGradient>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#38b2ac"/>
+      <stop offset="100%" style="stop-color:#2c7a7b"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="350" fill="url(#bg)" rx="10"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="bold">⚡ DevOps CI/CD Pipeline</text>
+
+  <!-- Pipeline track -->
+  <rect x="30" y="160" width="740" height="4" rx="2" fill="#fff" opacity="0.1"/>
+
+  <!-- Stage 1: Plan -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="110" width="90" height="100" rx="8" fill="url(#g1)"/>
+    <text x="85" y="147" text-anchor="middle" fill="#fff" font-family="monospace" font-size="14" font-weight="bold">📋</text>
+    <text x="85" y="167" text-anchor="middle" fill="#fff" font-family="monospace" font-size="13" font-weight="bold">Plan</text>
+    <text x="85" y="183" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" opacity="0.8">Jira</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <polygon points="138,160 148,155 148,165" fill="#48bb78" opacity="0.5"/>
+
+  <!-- Stage 2: Code -->
+  <g filter="url(#shadow)">
+    <rect x="155" y="110" width="90" height="100" rx="8" fill="url(#g2)"/>
+    <text x="200" y="147" text-anchor="middle" fill="#fff" font-family="monospace" font-size="14" font-weight="bold">💻</text>
+    <text x="200" y="167" text-anchor="middle" fill="#fff" font-family="monospace" font-size="13" font-weight="bold">Code</text>
+    <text x="200" y="183" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" opacity="0.8">Git</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <polygon points="253,160 263,155 263,165" fill="#4299e1" opacity="0.5"/>
+
+  <!-- Stage 3: Build -->
+  <g filter="url(#shadow)">
+    <rect x="270" y="110" width="90" height="100" rx="8" fill="url(#g3)"/>
+    <text x="315" y="147" text-anchor="middle" fill="#fff" font-family="monospace" font-size="14" font-weight="bold">🔨</text>
+    <text x="315" y="167" text-anchor="middle" fill="#fff" font-family="monospace" font-size="13" font-weight="bold">Build</text>
+    <text x="315" y="183" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" opacity="0.8">Maven</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <polygon points="368,160 378,155 378,165" fill="#ed8936" opacity="0.5"/>
+
+  <!-- Stage 4: Test -->
+  <g filter="url(#shadow)">
+    <rect x="385" y="110" width="90" height="100" rx="8" fill="url(#g4)"/>
+    <text x="430" y="147" text-anchor="middle" fill="#fff" font-family="monospace" font-size="14" font-weight="bold">🧪</text>
+    <text x="430" y="167" text-anchor="middle" fill="#fff" font-family="monospace" font-size="13" font-weight="bold">Test</text>
+    <text x="430" y="183" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" opacity="0.8">JUnit</text>
+  </g>
+
+  <!-- Arrow 4 -->
+  <polygon points="483,160 493,155 493,165" fill="#9b59b6" opacity="0.5"/>
+
+  <!-- Stage 5: Deploy -->
+  <g filter="url(#shadow)">
+    <rect x="500" y="110" width="90" height="100" rx="8" fill="url(#g5)"/>
+    <text x="545" y="147" text-anchor="middle" fill="#fff" font-family="monospace" font-size="14" font-weight="bold">🚀</text>
+    <text x="545" y="167" text-anchor="middle" fill="#fff" font-family="monospace" font-size="13" font-weight="bold">Deploy</text>
+    <text x="545" y="183" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" opacity="0.8">Jenkins</text>
+  </g>
+
+  <!-- Arrow 5 -->
+  <polygon points="598,160 608,155 608,165" fill="#e74c3c" opacity="0.5"/>
+
+  <!-- Stage 6: Monitor -->
+  <g filter="url(#shadow)">
+    <rect x="615" y="110" width="90" height="100" rx="8" fill="url(#g6)"/>
+    <text x="660" y="147" text-anchor="middle" fill="#fff" font-family="monospace" font-size="14" font-weight="bold">📊</text>
+    <text x="660" y="167" text-anchor="middle" fill="#fff" font-family="monospace" font-size="13" font-weight="bold">Monitor</text>
+    <text x="660" y="183" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" opacity="0.8">Grafana</text>
+  </g>
+
+  <!-- Stage 7: IaC -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="240" width="665" height="50" rx="8" fill="url(#g4)" opacity="0.8"/>
+    <text x="375" y="270" text-anchor="middle" fill="#fff" font-family="monospace" font-size="14" font-weight="bold">🏗️ Infrastructure as Code (Terraform + CloudFormation) — Everything Automated</text>
+  </g>
+
+  <!-- Arrow down to IaC -->
+  <line x1="375" y1="210" x2="375" y2="235" stroke="#fff" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.4"/>
+  <polygon points="370,235 375,245 380,235" fill="#fff" opacity="0.4"/>
+
+  <!-- Icons row at bottom -->
+  <g transform="translate(740, 260)" opacity="0.3">
+    <text x="0" y="12" fill="#fff" font-family="Arial" font-size="10">🔄</text>
+    <text x="0" y="30" fill="#fff" font-family="Arial" font-size="8">Automated</text>
+  </g>
+</svg>

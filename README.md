@@ -1,96 +1,79 @@
-<!-- ==========================================
-           ASHOK KUNCHALA
-=========================================== -->
+<div align="center">
+  <img src="assets/aws-arch-3d.svg" width="100%" alt="AWS Cloud DevOps Architecture"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Ashok Kunchala</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashok+Kunchala;DevOps+Engineer;AWS+Cloud+Architect;Terraform+Automation+Expert;Kubernetes+Practitioner;CI%2FCD+Specialist" alt="Typing SVG"/>
+</h1>
 
 <h3 align="center">
-DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+  <img src="https://img.shields.io/badge/DevOps-Engineer-FF6F00?style=for-the-badge&logo=devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Terraform+Automation+Specialist;Kubernetes+Practitioner;CI%2FCD+Pipeline+Builder;Always+Learning+New+Technologies+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ashokkunchala&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-# 🚀 Welcome To My Digital Space
-
-<p align="center">
-
-<a href="https://github.com/Ashokkunchala">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/ashok-kunchala-127820217">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:ashokkunchala10299@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://drive.google.com/file/d/1fZSEfg2T4YuordNXl0Wav3fOe_3dezIX/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=googledrive">
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=Ashokkunchala&label=Profile+Views&color=FF6F00&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Ashokkunchala?label=Followers&style=for-the-badge&color=36BCF7"/>
+  <img src="https://img.shields.io/github/stars/Ashokkunchala?label=Stars&style=for-the-badge&color=FFD700"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## <div align="center">🌟 Navigating My Digital Universe</div>
+
+<p align="center">
+  <a href="https://github.com/Ashokkunchala"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/ashok-kunchala-127820217"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:ashokkunchala10299@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://drive.google.com/file/d/1fZSEfg2T4YuordNXl0Wav3fOe_3dezIX/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
 
-<td width="55%">
+<td width="55%" valign="top">
 
 ```yaml
-name: Ashok Kunchala
-
-location: Hyderabad, India
-
-role: DevOps Engineer
-
-experience:
-  - AWS
-  - Kubernetes
-  - Terraform
-  - Docker
-  - Jenkins
-  - GitHub Actions
-
-currently_learning:
-  - AWS Solution Architect Associate
-  - EKS
-  - Terraform Modules
-  - Python Automation
-  - OpenSearch
-
-career_goal:
-  Cloud & DevOps Architect
-
-interests:
-  - Automation
-  - Platform Engineering
-  - Cloud Native
-  - Site Reliability
-
-fun_fact:
-  Building production-grade labs
-  on my local machine.
+┌─────────────────────────────────────┐
+│         ASHOK KUNCHALA              │
+│         DevOps Engineer             │
+├─────────────────────────────────────┤
+│ Location: Hyderabad, India          │
+│ Focus:   Cloud & DevOps Automation  │
+│ Goal:    Cloud & DevOps Architect   │
+├─────────────────────────────────────┤
+│ Core Competencies:                  │
+│   • AWS Cloud Architecture          │
+│   • Kubernetes Orchestration        │
+│   • Terraform / IaC                 │
+│   • CI/CD Pipeline Design           │
+│   • Docker Containerization         │
+│   • Monitoring & Observability       │
+├─────────────────────────────────────┤
+│ Currently Leveling Up:              │
+│   • AWS Solution Architect Assoc    │
+│   • EKS Production Operations       │
+│   • Terraform Advanced Modules      │
+│   • Python Automation               │
+│   • OpenSearch                      │
+├─────────────────────────────────────┤
+│ Fun Fact: Building production-      │
+│ grade labs on my local machine.     │
+└─────────────────────────────────────┘
 ```
 
 </td>
 
-<td width="45%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
-
+<td width="45%" align="center">
+  <img src="assets/aws-arch-3d.svg" width="100%" alt="3D AWS"/>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding GIF"/>
 </td>
 
 </tr>
@@ -98,28 +81,65 @@ fun_fact:
 
 ---
 
-# 🎯 What Makes Me Unique
+## 🏗️ DevOps Pipeline
+
+<p align="center">
+  <img src="assets/devops-pipeline.svg" width="100%" alt="DevOps Pipeline"/>
+</p>
+
+---
+
+## 🏆 What Makes Me Unique
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Core Strengths
+
+| Area | Expertise |
+|------|-----------|
+| 🔧 Infrastructure Automation | Terraform, CloudFormation |
+| 🔄 CI/CD Design | Jenkins, GitHub Actions |
+| ☸️ Kubernetes Operations | EKS, Kind, K8s manifests |
+| ☁️ AWS Cloud Engineering | EC2, S3, Lambda, VPC, IAM |
+| 🐳 Containerization | Docker, ECS, ECR |
+| 📊 Monitoring | Prometheus, Grafana, Loki |
+| 🔐 Security | IAM Policies, Security Groups |
+| 🏗️ IaC | Terraform, Terragrunt |
+
+</td>
+<td width="50%" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="DevOps GIF"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏠 Home Lab Environment
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Strengths
-
-- Infrastructure Automation
-- CI/CD Design
-- Kubernetes Operations
-- AWS Cloud Engineering
-- Terraform IaC
-- Troubleshooting
+| Tool | Purpose |
+|:----:|:-------:|
+| <img src="https://skillicons.dev/icons?i=windows" width="20"/> **Windows 11** | Host OS |
+| <img src="https://skillicons.dev/icons?i=linux" width="20"/> **WSL Ubuntu 24.04** | Development |
+| <img src="https://skillicons.dev/icons?i=docker" width="20"/> **Docker** | Containers |
+| <img src="https://skillicons.dev/icons?i=kubernetes" width="20"/> **Kind** | Local K8s |
+| <img src="https://skillicons.dev/icons?i=jenkins" width="20"/> **Jenkins** | CI/CD |
+| <img src="https://skillicons.dev/icons?i=terraform" width="20"/> **Terraform** | IaC |
+| <img src="https://skillicons.dev/icons?i=aws" width="20"/> **AWS CLI** | Cloud |
 
 </td>
 
-<td width="50%">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
-
+<td width="50%" align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="200"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,docker,kubernetes,jenkins,terraform,aws" width="300"/>
 </td>
 
 </tr>
@@ -127,190 +147,255 @@ fun_fact:
 
 ---
 
-# 🏠 Home Lab
+## 🛠️ Technology Arsenal
+
+### ☁️ Cloud Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🐳 Containers & Orchestration
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+</p>
+
+### 🔧 CI/CD & Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terragrunt-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 📊 Monitoring & Observability
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-FF4589?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
+</p>
+
+### 💻 Languages & Scripting
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HCL-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-FF0000?style=for-the-badge&logo=yaml&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☸️ Kubernetes Monitoring Stack
+
+| Component | Description |
+|-----------|-------------|
+| **Prometheus** | Metrics collection & alerting |
+| **Grafana** | Visualization & dashboards |
+| **Alertmanager** | Alert routing & notification |
+| **Loki** | Log aggregation |
+
+**Tech:** `Prometheus` `Grafana` `Alertmanager` `Loki` `Kubernetes`
+
+↗️ [View Project](#)
+
+</td>
+
+<td width="50%" align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="200"/>
+</td>
+
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="200"/>
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ AWS ECS Deployments
+
+| Component | Description |
+|-----------|-------------|
+| **Terraform** | Infrastructure provisioning |
+| **AWS ECS** | Container orchestration |
+| **GitHub Actions** | CI/CD automation |
+| **Docker** | Containerization |
+
+**Tech:** `Terraform` `AWS ECS` `GitHub Actions` `Docker` `ECR`
+
+↗️ [View Project](#)
+
+</td>
+
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Terraform AWS Infrastructure
+
+| Component | Description |
+|-----------|-------------|
+| **VPC** | Network architecture |
+| **EC2** | Compute resources |
+| **RDS** | Managed databases |
+| **S3** | Object storage |
+
+**Tech:** `Terraform` `AWS` `VPC` `EC2` `RDS` `S3`
+
+↗️ [View Project](#)
+
+</td>
+
+<td width="50%" align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,aws" width="100"/>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashokkunchala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkunchala&layout=compact&theme=tokyonight&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Ashokkunchala&theme=tokyonight&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokkunchala&theme=tokyo-night&hide_border=true&radius=10"/>
+</p>
+
+---
+
+## 🎯 AWS Services Expertise
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,linux,git,vscode,ansible" />
+</p>
 
 <table>
 <tr>
-
-<td width="50%">
-
-### Environment
-
-- Windows 11
-- WSL Ubuntu 24.04
-- Docker
-- Kind Kubernetes
-- Jenkins
-- Terraform
-- AWS
-
-</td>
-
-<td width="50%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="300"/>
-
-</td>
-
+<th>Category</th>
+<th>Services</th>
+<th>Proficiency</th>
+</tr>
+<tr>
+<td>☁️ Compute</td>
+<td>EC2, Lambda, ECS, EKS, Fargate</td>
+<td><img src="https://progress-bar.dev/90/?title=Expert&width=120"/></td>
+</tr>
+<tr>
+<td>📦 Storage</td>
+<td>S3, EBS, EFS, RDS</td>
+<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
+</tr>
+<tr>
+<td>🌐 Networking</td>
+<td>VPC, Subnets, SG, ALB, Route53, CloudFront</td>
+<td><img src="https://progress-bar.dev/88/?title=Advanced&width=120"/></td>
+</tr>
+<tr>
+<td>🔐 Security</td>
+<td>IAM, KMS, Secrets Manager, WAF</td>
+<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
+</tr>
+<tr>
+<td>🔄 CI/CD</td>
+<td>CodePipeline, CodeBuild, CodeDeploy</td>
+<td><img src="https://progress-bar.dev/80/?title=Proficient&width=120"/></td>
+</tr>
+<tr>
+<td>📊 Monitoring</td>
+<td>CloudWatch, X-Ray, Config</td>
+<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
 </tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+## 📚 Current Learning Journey
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,linux,git,vscode"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=48BB78&center=true&vCenter=true&width=500&lines=Always+Learning%2C+Always+Growing;Cloud+Native+Future+is+Here;Automation+is+the+Key+%F0%9F%94%91" alt="Learning"/>
 </p>
 
+<div align="center">
+
+| 🎯 Focus Area | 📖 Resources | 🚀 Progress |
+|:------------:|:------------:|:-----------:|
+| AWS Solution Architect Associate | AWS Docs, Courses | `████████░░` 80% |
+| EKS Production Operations | K8s Docs, Labs | `██████░░░░` 60% |
+| Terraform Advanced Modules | HashiCorp Learn | `███████░░░` 70% |
+| GitOps & ArgoCD | ArgoCD Docs | `██████░░░░` 60% |
+| OpenSearch | AWS OpenSearch | `█████░░░░░` 50% |
+| Python Automation | Real Python, Docs | `███████░░░` 70% |
+
+</div>
+
 ---
 
-# ☁️ Cloud & DevOps Tools
+## 📫 Let's Connect
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### ☸️ Kubernetes Monitoring
-
-- Prometheus
-- Grafana
-- Alertmanager
-- Loki
-
-Production-grade monitoring stack.
-
-</td>
-
-<td width="50%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="250"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ☁️ ECS Deployment
-
-- Terraform
-- AWS ECS
-- GitHub Actions
-- Docker
-
-Fully automated deployments.
-
-</td>
-
-<td width="50%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="250"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashokkunchala&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkunchala&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ashokkunchala&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokkunchala&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- AWS Solution Architect Associate
-- Kubernetes Production Operations
-- Terraform Advanced Modules
-- GitOps
-- ArgoCD
-- OpenSearch
-- Python Automation
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/ashok-kunchala-127820217">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:ashokkunchala10299@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/Ashokkunchala">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
+  <a href="https://linkedin.com/in/ashok-kunchala-127820217">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ashokkunchala10299@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ashokkunchala">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1fZSEfg2T4YuordNXl0Wav3fOe_3dezIX/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-⭐ Automate Everything That Can Be Automated ⭐
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=%E2%AD%90+Automate+Everything+That+Can+Be+Automated+%E2%AD%90" alt="Tagline"/>
 </p>
 
 <p align="center">
-
-Thanks for visiting my profile 🚀
-
+  <b>Thanks for visiting my profile!</b> <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </p>

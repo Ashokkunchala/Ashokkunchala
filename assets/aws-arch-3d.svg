@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a2e"/>
+      <stop offset="50%" style="stop-color:#1a1a4e"/>
+      <stop offset="100%" style="stop-color:#0d0d3d"/>
+    </linearGradient>
+    <linearGradient id="awsOrange" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9900"/>
+      <stop offset="100%" style="stop-color:#FF6600"/>
+    </linearGradient>
+    <linearGradient id="boxBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a90d9"/>
+      <stop offset="100%" style="stop-color:#2b6cb0"/>
+    </linearGradient>
+    <linearGradient id="boxGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#48bb78"/>
+      <stop offset="100%" style="stop-color:#38a169"/>
+    </linearGradient>
+    <linearGradient id="boxPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="boxRed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c"/>
+      <stop offset="100%" style="stop-color:#c0392b"/>
+    </linearGradient>
+    <linearGradient id="boxTeal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#38b2ac"/>
+      <stop offset="100%" style="stop-color:#2c7a7b"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="600" fill="url(#bgGrad)"/>
+
+  <!-- Grid dots -->
+  <g opacity="0.15">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1.5" fill="#4a90d9"/>
+    </pattern>
+    <rect width="1200" height="600" fill="url(#grid)"/>
+  </g>
+
+  <!-- Title -->
+  <text x="600" y="45" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="bold" filter="url(#glow)">☁️ AWS Cloud DevOps Architecture</text>
+
+  <!-- ====== 3D ISOMETRIC AWS CLOUD CONTAINER ====== -->
+
+  <!-- Cloud container - top face -->
+  <polygon points="600,70 950,195 600,320 250,195" fill="#FF9900" opacity="0.15" stroke="#FF9900" stroke-width="1.5"/>
+  <!-- Cloud container - right face -->
+  <polygon points="950,195 950,405 600,530 600,320" fill="#FF9900" opacity="0.08" stroke="#FF9900" stroke-width="1.5"/>
+  <!-- Cloud container - left face -->
+  <polygon points="250,195 250,405 600,530 600,320" fill="#FF9900" opacity="0.05" stroke="#FF9900" stroke-width="1"/>
+
+  <!-- AWS Label on cloud -->
+  <text x="600" y="190" text-anchor="middle" fill="#FF9900" font-family="Arial, sans-serif" font-size="14" font-weight="bold" opacity="0.6">AWS CLOUD</text>
+
+  <!-- ====== 3D ISOMETRIC EC2 INSTANCES ====== -->
+
+  <!-- EC2 Box 1 - Top face -->
+  <polygon points="400,130 470,165 400,200 330,165" fill="url(#boxBlue)" stroke="#5a9fd4" stroke-width="1.5"/>
+  <!-- Right face -->
+  <polygon points="470,165 470,225 400,260 400,200" fill="#2b6cb0" stroke="#5a9fd4" stroke-width="1"/>
+  <!-- Left face -->
+  <polygon points="330,165 330,225 400,260 400,200" fill="#1a4a7a" stroke="#5a9fd4" stroke-width="1"/>
+  <!-- EC2 Label -->
+  <text x="400" y="210" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">EC2</text>
+  <rect x="385" y="190" width="30" height="4" rx="2" fill="#5a9fd4"/>
+
+  <!-- EC2 Box 2 -->
+  <polygon points="520,100 590,135 520,170 450,135" fill="url(#boxBlue)" stroke="#5a9fd4" stroke-width="1.5"/>
+  <polygon points="590,135 590,195 520,230 520,170" fill="#2b6cb0" stroke="#5a9fd4" stroke-width="1"/>
+  <polygon points="450,135 450,195 520,230 520,170" fill="#1a4a7a" stroke="#5a9fd4" stroke-width="1"/>
+  <text x="520" y="175" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">EC2</text>
+  <rect x="505" y="155" width="30" height="4" rx="2" fill="#5a9fd4"/>
+
+  <!-- EC2 Box 3 -->
+  <polygon points="640,110 710,145 640,180 570,145" fill="url(#boxBlue)" stroke="#5a9fd4" stroke-width="1.5"/>
+  <polygon points="710,145 710,205 640,240 640,180" fill="#2b6cb0" stroke="#5a9fd4" stroke-width="1"/>
+  <polygon points="570,145 570,205 640,240 640,180" fill="#1a4a7a" stroke="#5a9fd4" stroke-width="1"/>
+  <text x="640" y="185" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">EC2</text>
+  <rect x="625" y="165" width="30" height="4" rx="2" fill="#5a9fd4"/>
+
+  <!-- ====== LOAD BALANCER ====== -->
+  <polygon points="760,95 830,130 760,165 690,130" fill="url(#boxGreen)" stroke="#68d391" stroke-width="1.5"/>
+  <polygon points="830,130 830,190 760,225 760,165" fill="#38a169" stroke="#68d391" stroke-width="1"/>
+  <polygon points="690,130 690,190 760,225 760,165" fill="#2d6a3f" stroke="#68d391" stroke-width="1"/>
+  <text x="760" y="170" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" font-weight="bold">ALB</text>
+
+  <!-- Connection lines from ALB to EC2s -->
+  <line x1="760" y1="120" x2="640" y2="110" stroke="#68d391" stroke-width="1" stroke-dasharray="4,4" opacity="0.6"/>
+  <line x1="760" y1="120" x2="520" y2="100" stroke="#68d391" stroke-width="1" stroke-dasharray="4,4" opacity="0.6"/>
+  <line x1="760" y1="120" x2="400" y2="130" stroke="#68d391" stroke-width="1" stroke-dasharray="4,4" opacity="0.6"/>
+
+  <!-- ====== RDS DATABASE ====== -->
+  <!-- Cylinder top -->
+  <ellipse cx="380" cy="300" rx="55" ry="20" fill="url(#boxPurple)" stroke="#a78bfa" stroke-width="1.5"/>
+  <!-- Cylinder body -->
+  <rect x="325" y="300" width="110" height="60" fill="#7c3aed" stroke="#a78bfa" stroke-width="1"/>
+  <!-- Cylinder bottom -->
+  <ellipse cx="380" cy="360" rx="55" ry="20" fill="#6d28d9" stroke="#a78bfa" stroke-width="1"/>
+  <!-- Database label -->
+  <text x="380" y="335" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">RDS</text>
+
+  <!-- ====== S3 BUCKET ====== -->
+  <polygon points="530,250 600,285 530,320 460,285" fill="url(#boxRed)" stroke="#e74c3c" stroke-width="1.5"/>
+  <polygon points="600,285 600,345 530,380 530,320" fill="#c0392b" stroke="#e74c3c" stroke-width="1"/>
+  <polygon points="460,285 460,345 530,380 530,320" fill="#a93226" stroke="#e74c3c" stroke-width="1"/>
+  <text x="530" y="325" text-anchor="middle" fill="#fff" font-family="monospace" font-size="10" font-weight="bold">S3</text>
+
+  <!-- ====== LAMBDA ====== -->
+  <polygon points="700,250 765,283 700,316 635,283" fill="url(#awsOrange)" stroke="#FF9900" stroke-width="1.5"/>
+  <polygon points="765,283 765,343 700,376 700,316" fill="#e67e22" stroke="#FF9900" stroke-width="1"/>
+  <polygon points="635,283 635,343 700,376 700,316" fill="#d35400" stroke="#FF9900" stroke-width="1"/>
+  <text x="700" y="318" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" font-weight="bold">λ</text>
+
+  <!-- ====== DOCKER / ECS ====== -->
+  <polygon points="870,250 935,283 870,316 805,283" fill="url(#boxTeal)" stroke="#4fd1c5" stroke-width="1.5"/>
+  <polygon points="935,283 935,343 870,376 870,316" fill="#2c7a7b" stroke="#4fd1c5" stroke-width="1"/>
+  <polygon points="805,283 805,343 870,376 870,316" fill="#1f5f5f" stroke="#4fd1c5" stroke-width="1"/>
+  <text x="870" y="318" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" font-weight="bold">ECS</text>
+
+  <!-- ====== DOCKER CONTAINERS (3D stacked) ====== -->
+  <!-- Container 1 -->
+  <polygon points="300,370 350,395 300,420 250,395" fill="#2496ED" opacity="0.8" stroke="#2496ED" stroke-width="1"/>
+  <polygon points="350,395 350,425 300,450 300,420" fill="#1a7ac9" opacity="0.8" stroke="#2496ED" stroke-width="1"/>
+  <polygon points="250,395 250,425 300,450 300,420" fill="#1360a3" opacity="0.8" stroke="#2496ED" stroke-width="1"/>
+  <!-- Container 2 -->
+  <polygon points="350,380 400,405 350,430 300,405" fill="#2496ED" opacity="0.7" stroke="#2496ED" stroke-width="1"/>
+  <polygon points="400,405 400,435 350,460 350,430" fill="#1a7ac9" opacity="0.7" stroke="#2496ED" stroke-width="1"/>
+  <polygon points="300,405 300,435 350,460 350,430" fill="#1360a3" opacity="0.7" stroke="#2496ED" stroke-width="1"/>
+  <!-- Container 3 -->
+  <polygon points="400,390 450,415 400,440 350,415" fill="#2496ED" opacity="0.6" stroke="#2496ED" stroke-width="1"/>
+  <polygon points="450,415 450,445 400,470 400,440" fill="#1a7ac9" opacity="0.6" stroke="#2496ED" stroke-width="1"/>
+  <polygon points="350,415 350,445 400,470 400,440" fill="#1360a3" opacity="0.6" stroke="#2496ED" stroke-width="1"/>
+  <text x="350" y="432" text-anchor="middle" fill="#fff" font-family="monospace" font-size="9" font-weight="bold">Docker</text>
+
+  <!-- ====== KUBERNETES PODS ====== -->
+  <g transform="translate(480, 390)">
+    <!-- K8s logo circle -->
+    <circle cx="35" cy="35" r="20" fill="none" stroke="#326CE5" stroke-width="2"/>
+    <circle cx="35" cy="35" r="3" fill="#326CE5"/>
+    <line x1="35" y1="15" x2="35" y2="55" stroke="#326CE5" stroke-width="1.5"/>
+    <line x1="15" y1="35" x2="55" y2="35" stroke="#326CE5" stroke-width="1.5"/>
+    <line x1="20" y1="20" x2="50" y2="50" stroke="#326CE5" stroke-width="1.5"/>
+    <line x1="50" y1="20" x2="20" y2="50" stroke="#326CE5" stroke-width="1.5"/>
+  </g>
+  <text x="515" y="445" text-anchor="middle" fill="#326CE5" font-family="monospace" font-size="10" font-weight="bold">K8s</text>
+
+  <!-- ====== CI/CD PIPELINE (bottom) ====== -->
+
+  <!-- Pipeline track -->
+  <line x1="100" y1="520" x2="1100" y2="520" stroke="#4a90d9" stroke-width="2" opacity="0.3"/>
+  <line x1="100" y1="528" x2="1100" y2="528" stroke="#4a90d9" stroke-width="2" opacity="0.3"/>
+
+  <!-- Pipeline stages as 3D blocks -->
+  <!-- Commit -->
+  <g filter="url(#shadow)">
+    <polygon points="150,500 210,500 210,540 150,540" fill="#48bb78" rx="4"/>
+    <text x="180" y="525" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">🔨 Build</text>
+  </g>
+
+  <!-- Test -->
+  <g filter="url(#shadow)">
+    <rect x="290" y="500" width="80" height="40" rx="4" fill="url(#boxBlue)"/>
+    <text x="330" y="525" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">🧪 Test</text>
+  </g>
+
+  <!-- Deploy -->
+  <g filter="url(#shadow)">
+    <rect x="450" y="500" width="90" height="40" rx="4" fill="url(#boxPurple)"/>
+    <text x="495" y="525" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">🚀 Deploy</text>
+  </g>
+
+  <!-- Monitor -->
+  <g filter="url(#shadow)">
+    <rect x="620" y="500" width="100" height="40" rx="4" fill="url(#boxTeal)"/>
+    <text x="670" y="525" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">📊 Monitor</text>
+  </g>
+
+  <!-- Terraform -->
+  <g filter="url(#shadow)">
+    <rect x="800" y="500" width="100" height="40" rx="4" fill="url(#boxPurple)"/>
+    <text x="850" y="525" text-anchor="middle" fill="#fff" font-family="monospace" font-size="11" font-weight="bold">🏗️ IaC</text>
+  </g>
+
+  <!-- Arrows between stages -->
+  <polygon points="235,520 245,515 245,525" fill="#4a90d9" opacity="0.6"/>
+  <polygon points="375,520 385,515 385,525" fill="#4a90d9" opacity="0.6"/>
+  <polygon points="545,520 555,515 555,525" fill="#4a90d9" opacity="0.6"/>
+  <polygon points="725,520 735,515 735,525" fill="#4a90d9" opacity="0.6"/>
+
+  <!-- Arrows from services to pipeline -->
+  <line x1="350" y1="470" x2="350" y2="500" stroke="#4a90d9" stroke-width="1" stroke-dasharray="3,3" opacity="0.4"/>
+  <line x1="700" y1="380" x2="495" y2="500" stroke="#4a90d9" stroke-width="1" stroke-dasharray="3,3" opacity="0.4"/>
+
+  <!-- GitHub Actions Icon -->
+  <g transform="translate(990, 420)">
+    <circle cx="25" cy="25" r="22" fill="none" stroke="#fff" stroke-width="2" opacity="0.5"/>
+    <text x="25" y="31" text-anchor="middle" fill="#fff" font-family="monospace" font-size="10" opacity="0.8">GA</text>
+  </g>
+  <line x1="1015" y1="445" x2="900" y2="510" stroke="#fff" stroke-width="1" stroke-dasharray="3,3" opacity="0.3"/>
+
+  <!-- ====== DECORATIVE ELEMENTS ====== -->
+
+  <!-- Floating dots -->
+  <circle cx="100" cy="150" r="2" fill="#4a90d9" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="80" r="1.5" fill="#FF9900" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="120" r="2" fill="#48bb78" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="300" r="1.5" fill="#9b59b6" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="380" r="2" fill="#38b2ac" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bottom tagline -->
+  <text x="600" y="580" text-anchor="middle" fill="#4a90d9" font-family="Arial, sans-serif" font-size="13" opacity="0.7">⚡ Automate Everything That Can Be Automated ⚡</text>
+</svg>
