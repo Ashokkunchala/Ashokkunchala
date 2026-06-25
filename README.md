@@ -231,28 +231,34 @@
 </td>
 
 <td width="50%" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="200"/>
+  <img src="https://img.shields.io/badge/Amazon_EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white" width="200" alt="EKS"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 </td>
 
 </tr>
 
 <tr>
 <td width="50%" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="200"/>
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" width="200" alt="ECS"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ AWS ECS Deployments
+### ☁️ AWS ECS + EKS Deployments
 
 | Component | Description |
 |-----------|-------------|
+| **Amazon EKS** | Managed Kubernetes |
+| **Amazon ECS** | Container orchestration |
 | **Terraform** | Infrastructure provisioning |
-| **AWS ECS** | Container orchestration |
 | **GitHub Actions** | CI/CD automation |
-| **Docker** | Containerization |
 
-**Tech:** `Terraform` `AWS ECS` `GitHub Actions` `Docker` `ECR`
+**Tech:** `Amazon EKS` `Amazon ECS` `Terraform` `GitHub Actions` `Docker` `ECR`
 
 ↗️ [View Project](#)
 
@@ -280,6 +286,9 @@
 
 <td width="50%" align="center">
   <img src="https://skillicons.dev/icons?i=terraform,aws" width="100"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Amazon_EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
 </td>
 
 </tr>
