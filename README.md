@@ -314,255 +314,48 @@
 
 ---
 
-## 🎯 AWS Services Proficiency
+## 🎯 AWS Services Expertise
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Certified+AWS+DevOps+Engineer;5%2B+Years+Cloud+Infrastructure+Experience;300%2B+AWS+Resources+Provisioned+via+Terraform" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,linux,git,ansible" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,linux,git,vscode,ansible" />
 </p>
 
 <table>
-
 <tr>
-<th colspan="3" align="center">☁️ Compute & Serverless</th>
+<th>Category</th>
+<th>Services</th>
+<th>Proficiency</th>
 </tr>
 <tr>
-<td>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <br/>Virtual servers in the cloud
-</td>
-<td>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-  <br/>Serverless compute
-</td>
-<td><img src="https://progress-bar.dev/95/?title=&width=100"/></td>
+<td>☁️ Compute</td>
+<td>EC2, Lambda, ECS, EKS, Fargate</td>
+<td><img src="https://progress-bar.dev/90/?title=Expert&width=120"/></td>
 </tr>
 <tr>
-<td>
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
-  <br/>Container orchestration
-</td>
-<td>
-  <img src="https://img.shields.io/badge/EKS-326CE5?style=flat-square&logo=amazoneks&logoColor=white"/>
-  <br/>Managed Kubernetes
-</td>
-<td><img src="https://progress-bar.dev/90/?title=&width=100"/></td>
+<td>📦 Storage</td>
+<td>S3, EBS, EFS, RDS</td>
+<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
 </tr>
 <tr>
-<td>
-  <img src="https://img.shields.io/badge/Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
-  <br/>Serverless containers
-</td>
-<td>
-  <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
-  <br/>Container registry
-</td>
-<td><img src="https://progress-bar.dev/85/?title=&width=100"/></td>
-</tr>
-
-<tr>
-<th colspan="3" align="center">📦 Storage & Database</th>
+<td>🌐 Networking</td>
+<td>VPC, Subnets, SG, ALB, Route53, CloudFront</td>
+<td><img src="https://progress-bar.dev/88/?title=Advanced&width=120"/></td>
 </tr>
 <tr>
-<td>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-  <br/>Object storage
-</td>
-<td>
-  <img src="https://img.shields.io/badge/EBS-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <br/>Block storage
-</td>
-<td><img src="https://progress-bar.dev/95/?title=&width=100"/></td>
+<td>🔐 Security</td>
+<td>IAM, KMS, Secrets Manager, WAF</td>
+<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
 </tr>
 <tr>
-<td>
-  <img src="https://img.shields.io/badge/EFS-FF9900?style=flat-square&logo=amazonefs&logoColor=white"/>
-  <br/>File storage
-</td>
-<td>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-  <br/>Managed databases
-</td>
-<td><img src="https://progress-bar.dev/85/?title=&width=100"/></td>
+<td>🔄 CI/CD</td>
+<td>CodePipeline, CodeBuild, CodeDeploy</td>
+<td><img src="https://progress-bar.dev/80/?title=Proficient&width=120"/></td>
 </tr>
 <tr>
-<td>
-  <img src="https://img.shields.io/badge/Aurora-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-  <br/>MySQL/PostgreSQL compat
-</td>
-<td>
-  <img src="https://img.shields.io/badge/ElastiCache-C925D1?style=flat-square&logo=amazonelasticache&logoColor=white"/>
-  <br/>In-memory caching
-</td>
-<td><img src="https://progress-bar.dev/75/?title=&width=100"/></td>
+<td>📊 Monitoring</td>
+<td>CloudWatch, X-Ray, Config</td>
+<td><img src="https://progress-bar.dev/85/?title=Advanced&width=120"/></td>
 </tr>
-
-<tr>
-<th colspan="3" align="center">🌐 Networking & Content Delivery</th>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Isolated cloud networks
-</td>
-<td>
-  <img src="https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Load balancing
-</td>
-<td><img src="https://progress-bar.dev/95/?title=&width=100"/></td>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/Route_53-8B4EFF?style=flat-square&logo=amazonroute53&logoColor=white"/>
-  <br/>DNS management
-</td>
-<td>
-  <img src="https://img.shields.io/badge/CloudFront-8B4EFF?style=flat-square&logo=amazoncloudfront&logoColor=white"/>
-  <br/>CDN & edge caching
-</td>
-<td><img src="https://progress-bar.dev/88/?title=&width=100"/></td>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/NAT_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Outbound connectivity
-</td>
-<td>
-  <img src="https://img.shields.io/badge/VPN-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Hybrid connectivity
-</td>
-<td><img src="https://progress-bar.dev/80/?title=&width=100"/></td>
-</tr>
-
-<tr>
-<th colspan="3" align="center">🔐 Security, Identity & Compliance</th>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Access management
-</td>
-<td>
-  <img src="https://img.shields.io/badge/KMS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Encryption keys
-</td>
-<td><img src="https://progress-bar.dev/92/?title=&width=100"/></td>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/Secrets_Manager-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Secrets rotation
-</td>
-<td>
-  <img src="https://img.shields.io/badge/WAF-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Web application firewall
-</td>
-<td><img src="https://progress-bar.dev/80/?title=&width=100"/></td>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/Security_Groups-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Instance-level firewall
-</td>
-<td>
-  <img src="https://img.shields.io/badge/Cognito-FF9900?style=flat-square&logo=amazoncognito&logoColor=white"/>
-  <br/>Identity management
-</td>
-<td><img src="https://progress-bar.dev/75/?title=&width=100"/></td>
-</tr>
-
-<tr>
-<th colspan="3" align="center">🔄 CI/CD & Developer Tools</th>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>CI/CD orchestration
-</td>
-<td>
-  <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Build & test
-</td>
-<td><img src="https://progress-bar.dev/88/?title=&width=100"/></td>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/CodeDeploy-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Automated deployments
-</td>
-<td>
-  <img src="https://img.shields.io/badge/CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Infra as code (TypeScript)
-</td>
-<td><img src="https://progress-bar.dev/75/?title=&width=100"/></td>
-</tr>
-
-<tr>
-<th colspan="3" align="center">📊 Monitoring, Observability & Management</th>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
-  <br/>Metrics & logs
-</td>
-<td>
-  <img src="https://img.shields.io/badge/X--Ray-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Tracing & debugging
-</td>
-<td><img src="https://progress-bar.dev/90/?title=&width=100"/></td>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/Config-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Compliance auditing
-</td>
-<td>
-  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>API activity logging
-</td>
-<td><img src="https://progress-bar.dev/85/?title=&width=100"/></td>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/Systems_Manager-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Ops management
-</td>
-<td>
-  <img src="https://img.shields.io/badge/Trusted_Advisor-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Best practice checks
-</td>
-<td><img src="https://progress-bar.dev/70/?title=&width=100"/></td>
-</tr>
-
-<tr>
-<th colspan="3" align="center">📨 Messaging & Integration</th>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Message queuing
-</td>
-<td>
-  <img src="https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Push notifications
-</td>
-<td><img src="https://progress-bar.dev/80/?title=&width=100"/></td>
-</tr>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Email service
-</td>
-<td>
-  <img src="https://img.shields.io/badge/EventBridge-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <br/>Event bus
-</td>
-<td><img src="https://progress-bar.dev/75/?title=&width=100"/></td>
-</tr>
-
 </table>
 
 ---
