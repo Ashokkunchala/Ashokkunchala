@@ -21,7 +21,7 @@
 
 ---
 
-## <div align="center">🌟 Navigating My Digital Universe</div>
+## <div align="center">Navigating My Digital Universe</div>
 
 <p align="center">
   <a href="https://github.com/Ashokkunchala"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/></a>
@@ -32,7 +32,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <table>
 <tr>
@@ -48,13 +48,16 @@
 │ Focus:   Cloud & DevOps Automation  │
 │ Goal:    Cloud & DevOps Architect   │
 ├─────────────────────────────────────┤
-│ Core Competencies:                  │
-│   • AWS Cloud Architecture          │
-│   • Kubernetes Orchestration        │
-│   • Terraform / IaC                 │
-│   • CI/CD Pipeline Design           │
-│   • Docker Containerization         │
-│   • Monitoring & Observability       │
+│ What I Do:                          │
+│   • Design CI/CD pipelines that     │
+│     ship code reliably, every time  │
+│   • Automate infrastructure with    │
+│     Terraform so teams never touch  │
+│     the console                     │
+│   • Build Kubernetes clusters that  │
+│     actually stay running in prod   │
+│   • Set up monitoring that catches  │
+│     problems before users do        │
 ├─────────────────────────────────────┤
 │ Currently Leveling Up:              │
 │   • AWS Solution Architect Assoc    │
@@ -81,7 +84,7 @@
 
 ---
 
-## 🏗️ DevOps Pipeline
+## DevOps Pipeline
 
 <p align="center">
   <img src="assets/devops-pipeline.svg" width="100%" alt="DevOps Pipeline"/>
@@ -89,24 +92,24 @@
 
 ---
 
-## 🏆 What Makes Me Unique
+## What I Bring to the Table
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Core Strengths
+### Core Strengths
 
 | Area | Expertise |
 |------|-----------|
-| 🔧 Infrastructure Automation | Terraform, CloudFormation |
-| 🔄 CI/CD Design | Jenkins, GitHub Actions |
-| ☸️ Kubernetes Operations | EKS, Kind, K8s manifests |
-| ☁️ AWS Cloud Engineering | EC2, S3, Lambda, VPC, IAM |
-| 🐳 Containerization | Docker, ECS, ECR |
-| 📊 Monitoring | Prometheus, Grafana, Loki |
-| 🔐 Security | IAM Policies, Security Groups |
-| 🏗️ IaC | Terraform, Terragrunt |
+| Infrastructure Automation | Terraform, CloudFormation |
+| CI/CD Design | Jenkins, GitHub Actions |
+| Kubernetes Operations | EKS, Kind, K8s manifests |
+| AWS Cloud Engineering | EC2, S3, Lambda, VPC, IAM |
+| Containerization | Docker, ECS, ECR |
+| Monitoring | Prometheus, Grafana, Loki |
+| Security | IAM Policies, Security Groups |
+| IaC | Terraform, Terragrunt |
 
 </td>
 <td width="50%" align="center">
@@ -117,7 +120,7 @@
 
 ---
 
-## 🏠 Home Lab Environment
+## Home Lab Environment
 
 <table>
 <tr>
@@ -147,9 +150,82 @@
 
 ---
 
-## 🛠️ Technology Arsenal
+## Featured Projects
 
-### ☁️ Cloud Platforms
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### Jenkins CI/CD with AI Monitoring
+
+End-to-end CI/CD pipeline with AI-powered monitoring and alerting. Provisions Jenkins infrastructure on AWS using Terraform with automated deployment workflows.
+
+**Tech:** `Terraform` `Jenkins` `AWS` `AI Monitoring`
+
+[View Project](https://github.com/Ashokkunchala/Jenkins-CICD-AI-Monitoring)
+
+</td>
+
+<td width="50%" align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" width="200" alt="Jenkins"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Monitoring-FF6F00?style=for-the-badge&logo=devops&logoColor=white"/>
+</td>
+
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img src="https://img.shields.io/badge/Amazon_EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white" width="200" alt="EKS"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</td>
+
+<td width="50%" valign="top">
+
+### EKS & ECS Deployments
+
+Hands-on demos for deploying containerized applications on both Amazon EKS and ECS. Covers cluster setup, service discovery, load balancing, and auto-scaling.
+
+**Tech:** `Amazon EKS` `Amazon ECS` `Docker` `Kubernetes`
+
+[eks-demo](https://github.com/Ashokkunchala/eks-demo) | [ecs-demo](https://github.com/Ashokkunchala/ecs-demo)
+
+</td>
+
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Multi-Branch Jenkins Pipelines
+
+Automated Jenkins pipelines for multi-branch workflows. Triggered builds across feature branches with environment-specific deployments and quality gates.
+
+**Tech:** `Jenkins` `Pipeline` `Multi-Branch` `CI/CD`
+
+[View Project](https://github.com/Ashokkunchala/multi-branch-pipelines)
+
+</td>
+
+<td width="50%" align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github" width="150"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Pipeline-Automation-2088FF?style=for-the-badge"/>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Technology Stack
+
+### Cloud Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
@@ -163,15 +239,14 @@
   <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🐳 Containers & Orchestration
+### Containers & Orchestration
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
-### 🔧 CI/CD & Automation
+### CI/CD & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -181,7 +256,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### 📊 Monitoring & Observability
+### Monitoring & Observability
 <p align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
@@ -189,7 +264,7 @@
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
 </p>
 
-### 💻 Languages & Scripting
+### Languages & Scripting
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
@@ -197,107 +272,17 @@
   <img src="https://img.shields.io/badge/YAML-FF0000?style=for-the-badge&logo=yaml&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☸️ Kubernetes Monitoring Stack
-
-| Component | Description |
-|-----------|-------------|
-| **Prometheus** | Metrics collection & alerting |
-| **Grafana** | Visualization & dashboards |
-| **Alertmanager** | Alert routing & notification |
-| **Loki** | Log aggregation |
-
-**Tech:** `Prometheus` `Grafana` `Alertmanager` `Loki` `Kubernetes`
-
-↗️ [View Project](#)
-
-</td>
-
-<td width="50%" align="center">
-  <img src="https://img.shields.io/badge/Amazon_EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white" width="200" alt="EKS"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-</td>
-
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" width="200" alt="ECS"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ AWS ECS + EKS Deployments
-
-| Component | Description |
-|-----------|-------------|
-| **Amazon EKS** | Managed Kubernetes |
-| **Amazon ECS** | Container orchestration |
-| **Terraform** | Infrastructure provisioning |
-| **GitHub Actions** | CI/CD automation |
-
-**Tech:** `Amazon EKS` `Amazon ECS` `Terraform` `GitHub Actions` `Docker` `ECR`
-
-↗️ [View Project](#)
-
-</td>
-
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Terraform AWS Infrastructure
-
-| Component | Description |
-|-----------|-------------|
-| **VPC** | Network architecture |
-| **EC2** | Compute resources |
-| **RDS** | Managed databases |
-| **S3** | Object storage |
-
-**Tech:** `Terraform` `AWS` `VPC` `EC2` `RDS` `S3`
-
-↗️ [View Project](#)
-
-</td>
-
-<td width="50%" align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,aws" width="100"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Amazon_EKS-326CE5?style=for-the-badge&logo=amazoneks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashokkunchala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
@@ -314,62 +299,29 @@
 
 ---
 
-## 🎯 AWS Services Expertise
+## AWS Services Expertise
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,linux,git,vscode,ansible" />
 </p>
 
-<table>
-<tr>
-<th>Category</th>
-<th>Services</th>
-<th>Proficiency</th>
-</tr>
-<tr>
-<td>☁️ Compute</td>
-<td>EC2, Lambda, ECS, EKS, Fargate</td>
-<td><img src="https://img.shields.io/badge/Expert-90%25-00C853?style=for-the-badge&logo=amazonaws"/></td>
-</tr>
-<tr>
-<td>📦 Storage</td>
-<td>S3, EBS, EFS, RDS</td>
-<td><img src="https://img.shields.io/badge/Advanced-85%25-00BFA5?style=for-the-badge&logo=amazonaws"/></td>
-</tr>
-<tr>
-<td>🌐 Networking</td>
-<td>VPC, Subnets, SG, ALB, Route53, CloudFront</td>
-<td><img src="https://img.shields.io/badge/Advanced-88%25-00BFA5?style=for-the-badge&logo=amazonaws"/></td>
-</tr>
-<tr>
-<td>🔐 Security</td>
-<td>IAM, KMS, Secrets Manager, WAF</td>
-<td><img src="https://img.shields.io/badge/Advanced-85%25-00BFA5?style=for-the-badge&logo=amazonaws"/></td>
-</tr>
-<tr>
-<td>🔄 CI/CD</td>
-<td>CodePipeline, CodeBuild, CodeDeploy</td>
-<td><img src="https://img.shields.io/badge/Proficient-80%25-FFB300?style=for-the-badge&logo=amazonaws"/></td>
-</tr>
-<tr>
-<td>📊 Monitoring</td>
-<td>CloudWatch, X-Ray, Config</td>
-<td><img src="https://img.shields.io/badge/Advanced-85%25-00BFA5?style=for-the-badge&logo=amazonaws"/></td>
-</tr>
-</table>
+| Category | Services |
+|----------|----------|
+| Compute | EC2, Lambda, ECS, EKS, Fargate |
+| Storage | S3, EBS, EFS, RDS |
+| Networking | VPC, Subnets, SG, ALB, Route53, CloudFront |
+| Security | IAM, KMS, Secrets Manager, WAF |
+| CI/CD | CodePipeline, CodeBuild, CodeDeploy |
+| Monitoring | CloudWatch, X-Ray, Config |
 
 ---
 
-## 📚 Current Learning Journey
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=48BB78&center=true&vCenter=true&width=500&lines=Always+Learning%2C+Always+Growing;Cloud+Native+Future+is+Here;Automation+is+the+Key+%F0%9F%94%91" alt="Learning"/>
-</p>
+## Current Learning Journey
 
 <div align="center">
 
-| 🎯 Focus Area | 📖 Resources | 🚀 Progress |
-|:------------:|:------------:|:-----------:|
+| Focus Area | Resources | Progress |
+|:----------:|:---------:|:--------:|
 | AWS Solution Architect Associate | AWS Docs, Courses | `████████░░` 80% |
 | EKS Production Operations | K8s Docs, Labs | `██████░░░░` 60% |
 | Terraform Advanced Modules | HashiCorp Learn | `███████░░░` 70% |
@@ -381,7 +333,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ashok-kunchala-127820217">
