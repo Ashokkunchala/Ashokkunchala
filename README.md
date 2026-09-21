@@ -1,393 +1,190 @@
 <div align="center">
 
-  <img src="assets/aws-arch-3d.svg" width="100%" alt="AWS Cloud DevOps Architecture"/>
+# 👋 Hi, I'm Ashok Kunchala
 
-  <br/>
+### AWS & DevOps Engineer · Cloud Infrastructure · Kubernetes · Terraform · CI/CD · Automation
 
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashok+Kunchala;DevOps+Engineer+%7C+AWS+Cloud+Architect+%7C+IaC+Specialist" alt="Typing SVG"/>
-  </h1>
-
-  <br/>
-
-  <div>
-    <img src="https://img.shields.io/badge/DevOps-Engineer-FF6F00?style=for-the-badge&logo=devops&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  </div>
-
-  <br/>
-
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Ashokkunchala&label=Profile%20Views&color=FF6F00&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/followers/Ashokkunchala?label=Followers&style=for-the-badge&color=36BCF7"/>
-    <img src="https://img.shields.io/github/stars/Ashokkunchala?label=Total%20Stars&style=for-the-badge&color=FFD700"/>
-    <a href="https://linkedin.com/in/ashok-kunchala-127820217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:ashokkunchala10299@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://drive.google.com/file/d/1fZSEfg2T4YuordNXl0Wav3fOe_3dezIX/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-  </div>
-
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<p>
+  <a href="https://github.com/Ashokkunchala"><img src="https://img.shields.io/badge/GitHub-Ashokkunchala-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/ashok-kunchala-127820217/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+</p>
 
 </div>
 
 ---
 
-## `whoami`
+## About
 
-<table>
-<tr>
+I build and document hands-on cloud and DevOps automation across **AWS, Kubernetes, Terraform, Ansible, Docker, CI/CD and Python/Boto3**.
 
-<td width="55%" valign="top">
+My repositories focus on practical engineering: repeatable labs, infrastructure automation, troubleshooting, security, observability and production-oriented design.
 
-```bash
-$ whoami
-Ashok Kunchala — DevOps Engineer
+### Core focus
 
-$ cat /etc/motd
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Location  : Hyderabad, India
-  Focus     : Cloud & DevOps Automation
-  Mission   : Ship reliable infrastructure,
-              not just code
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-$ ls ~/skills/
-  aws-architecture/    terraform-iac/
-  kubernetes/          ci-cd-pipelines/
-  containerization/    monitoring-stack/
-
-$ cat ~/currently-learning.txt
-  > AWS Solution Architect Associate
-  > EKS Production Operations
-  > Terraform Advanced Modules
-  > Python Automation
-  > OpenSearch
-
-$ echo "Fun fact: I build production-
-  grade labs on my local machine."
-```
-
-</td>
-
-<td width="45%" align="center">
-  <img src="assets/aws-arch-3d.svg" width="100%" alt="3D AWS"/>
-</td>
-
-</tr>
-</table>
+`AWS` · `Kubernetes / EKS` · `Terraform` · `Ansible` · `Docker` · `Jenkins` · `GitHub Actions` · `Python / Boto3` · `Prometheus / Grafana`
 
 ---
 
-## `devops-pipeline --show`
+## Featured Repositories
 
-<p align="center">
-  <img src="assets/devops-pipeline.svg" width="100%" alt="DevOps Pipeline"/>
-</p>
-
----
-
-## `cat /proc/core-strengths`
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-| Domain | What I Work With |
-|--------|------------------|
-| **Infrastructure as Code** | Terraform, CloudFormation, Terragrunt |
-| **CI/CD Pipelines** | Jenkins, GitHub Actions, ArgoCD |
-| **Container Orchestration** | EKS, ECS, Kind, K8s Manifests |
-| **Cloud Architecture** | EC2, S3, Lambda, VPC, IAM |
-| **Containerization** | Docker, ECS, ECR |
-| **Observability** | Prometheus, Grafana, Loki, OpenSearch |
-| **Security** | IAM Policies, Security Groups, KMS |
-
-</td>
-<td width="45%" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="DevOps"/>
-</td>
-</tr>
-</table>
+| Repository | Focus |
+|---|---|
+| [AWS Certified Solutions Architect Associate](https://github.com/Ashokkunchala/AWS-Certified-Solutions-Architect-Associate) | AWS architecture, hands-on labs, scenario questions, mock exams and capstone |
+| [Kubernetes-EKS-Learning](https://github.com/Ashokkunchala/Kubernetes-EKS-Learning) | 60-day Kubernetes/EKS curriculum, production operations, troubleshooting and capstone |
+| [Terraform](https://github.com/Ashokkunchala/Terraform) | 60-day Terraform path from HCL fundamentals to AWS and enterprise patterns |
+| [Ansible](https://github.com/Ashokkunchala/Ansible) | 60-day Ansible path from fundamentals to production automation |
+| [Python-Boto3](https://github.com/Ashokkunchala/Python-Boto3) | Python from zero to Boto3 and AWS automation |
+| [Jenkins-CICD-AI-Monitoring](https://github.com/Ashokkunchala/Jenkins-CICD-AI-Monitoring) | Jenkins, AWS infrastructure, CI/CD and monitoring |
 
 ---
 
-## `neofetch --lab`
+## Engineering Stack
 
-<table>
-<tr>
+### Cloud
+`AWS` `EC2` `VPC` `S3` `IAM` `ALB` `Route53` `CloudFront` `RDS` `Lambda` `ECS` `EKS` `ECR` `CloudWatch`
 
-<td width="50%" valign="top">
-
-| Tool | Role |
-|:----:|:----:|
-| <img src="https://skillicons.dev/icons?i=windows" width="22"/> **Windows 11** | Host OS |
-| <img src="https://skillicons.dev/icons?i=linux" width="22"/> **WSL Ubuntu 24.04** | Development |
-| <img src="https://skillicons.dev/icons?i=docker" width="22"/> **Docker** | Containers |
-| <img src="https://skillicons.dev/icons?i=kubernetes" width="22"/> **Kind** | Local K8s |
-| <img src="https://skillicons.dev/icons?i=jenkins" width="22"/> **Jenkins** | CI/CD |
-| <img src="https://skillicons.dev/icons?i=terraform" width="22"/> **Terraform** | IaC |
-| <img src="https://skillicons.dev/icons?i=aws" width="22"/> **AWS CLI** | Cloud |
-
-</td>
-
-<td width="50%" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="180"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,docker,kubernetes,jenkins,terraform,aws" width="300"/>
-</td>
-
-</tr>
-</table>
-
----
-
-## `ls ~/projects/`
-
-<table>
-
-<tr>
-<td width="50%" valign="top">
-
-### Jenkins CI/CD + AI Monitoring
-
-```bash
-$ terraform init && terraform apply
-# Jenkins infra provisioned on AWS
-# AI monitoring pipelines active
-```
-
-Automated Jenkins infrastructure on AWS with Terraform, integrated with AI-powered monitoring and alerting.
-
-`Terraform` `Jenkins` `AWS` `AI-Monitoring`
-
-[View Project](https://github.com/Ashokkunchala/Jenkins-CICD-AI-Monitoring)
-
-</td>
-
-<td width="50%" align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,terraform,aws" width="180"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Infrastructure-as-Code-623CE4?style=for-the-badge&logo=terraform"/>
-</td>
-
-</tr>
-
-<tr>
-<td width="50%" align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws" width="180"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/EKS-326CE5?style=for-the-badge&logo=amazoneks"/>
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs"/>
-</td>
-
-<td width="50%" valign="top">
-
-### EKS & ECS Deployments
-
-```bash
-$ kubectl get pods -n production
-NAME                    READY   STATUS    AGE
-api-server-7b9f4c-xk    1/1     Running   3d
-worker-node-5d8m2       1/1     Running   3d
-```
-
-Containerized application deployments on Amazon EKS and ECS with service discovery, load balancing, and auto-scaling.
-
-`EKS` `ECS` `Docker` `Kubernetes`
-
-[eks-demo](https://github.com/Ashokkunchala/eks-demo) | [ecs-demo](https://github.com/Ashokkunchala/ecs-demo)
-
-</td>
-
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Multi-Branch Jenkins Pipelines
-
-```bash
-$ jenkins-cli pipeline list
-FEATURE  | STATUS  | LAST_BUILD
-main      | SUCCESS | 2 min ago
-feature/* | SUCCESS | 5 min ago
-hotfix/*  | PENDING | queued
-```
-
-Automated Jenkins pipelines for multi-branch workflows with environment-specific deployments and quality gates.
-
-`Jenkins` `Pipeline` `Multi-Branch` `CI/CD`
-
-[View Project](https://github.com/Ashokkunchala/multi-branch-pipelines)
-
-</td>
-
-<td width="50%" align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,git,github" width="180"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Pipeline-Automation-2088FF?style=for-the-badge"/>
-</td>
-
-</tr>
-
-</table>
-
----
-
-## `cat ~/tech-stack.md`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Cloud & Compute
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,amazonec2,amazons3,awslambda,amazoneks,amazonecs" />
-</p>
+### Infrastructure as Code
+`Terraform` `Ansible` `CloudFormation`
 
 ### Containers & Orchestration
+`Docker` `Kubernetes` `EKS` `ECS` `Helm` `Kind`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
-</p>
+### CI/CD & GitOps
+`Jenkins` `GitHub Actions` `Argo CD` `Git` `GitHub`
 
-### CI/CD & Automation
+### Automation
+`Python` `Boto3` `Bash` `YAML` `JSON`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible,git" />
-</p>
+### Observability
+`Prometheus` `Grafana` `Loki` `OpenSearch` `CloudWatch`
 
-</td>
-<td width="50%" valign="top">
-
-### Monitoring & Observability
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,opensearch" />
-</p>
-
-### Languages & Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,yaml" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,nginx,argo" />
-</p>
-
-</td>
-</tr>
-</table>
+### Security
+`IAM` `KMS` `Secrets Manager` `Security Groups` `Least Privilege`
 
 ---
 
-## `github-stats --user Ashokkunchala`
+## What I Build
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashokkunchala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkunchala&layout=compact&theme=tokyonight&border_radius=10"/>
-</p>
+**Infrastructure**
+- Reusable Terraform modules
+- AWS networking and compute
+- ECS/EKS platform foundations
+- Multi-environment infrastructure
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Ashokkunchala&theme=tokyonight&border_radius=10"/>
-</p>
+**Automation**
+- Python/Boto3 inventory and reporting
+- Ansible configuration management
+- Linux automation
+- Operational scripts and tooling
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkunchala&hide=html,css,javascript&layout=donut&theme=tokyonight&border_radius=10" width="35%"/>
-  <img src="https://github-readme-trophy.vercel.app/?username=Ashokkunchala&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="65%"/>
-</p>
+**Delivery**
+- Jenkins pipelines
+- GitHub Actions
+- GitOps workflows
+- Container build/deploy pipelines
 
-<p align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokkunchala&theme=tokyo-night&hide_border=true&radius=10"/>
-</p>
-
----
-
-## `aws services --expertise`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,python,bash,linux,git,vscode,ansible" />
-</p>
-
-<table>
-<tr>
-<th>Category</th>
-<th>Services</th>
-</tr>
-<tr>
-<td>Compute</td>
-<td>EC2, Lambda, ECS, EKS, Fargate</td>
-</tr>
-<tr>
-<td>Storage</td>
-<td>S3, EBS, EFS, RDS</td>
-</tr>
-<tr>
-<td>Networking</td>
-<td>VPC, Subnets, SG, ALB, Route53, CloudFront</td>
-</tr>
-<tr>
-<td>Security</td>
-<td>IAM, KMS, Secrets Manager, WAF</td>
-</tr>
-<tr>
-<td>CI/CD</td>
-<td>CodePipeline, CodeBuild, CodeDeploy</td>
-</tr>
-<tr>
-<td>Monitoring</td>
-<td>CloudWatch, X-Ray, Config</td>
-</tr>
-</table>
+**Operations**
+- Kubernetes troubleshooting
+- Monitoring and observability
+- Reliability and recovery runbooks
+- Security and configuration validation
 
 ---
 
-## `learning --status`
+## Learning Portfolio
 
-<div align="center">
+### AWS Architecture
+[![AWS](https://img.shields.io/badge/AWS-Architecture-FF9900?style=flat-square&logo=amazonaws)](https://github.com/Ashokkunchala/AWS-Certified-Solutions-Architect-Associate)
 
-| Focus Area | Resources | Progress |
-|:----------:|:---------:|:--------:|
-| AWS Solution Architect | AWS Docs, Courses | `████████░░` 80% |
-| EKS Production Ops | K8s Docs, Labs | `██████░░░░` 60% |
-| Terraform Advanced | HashiCorp Learn | `███████░░░` 70% |
-| GitOps & ArgoCD | ArgoCD Docs | `██████░░░░` 60% |
-| OpenSearch | AWS OpenSearch | `█████░░░░░` 50% |
-| Python Automation | Real Python | `███████░░░` 70% |
+A structured AWS learning repository with architecture diagrams, labs, decision guides, troubleshooting drills, scenario questions, mock exams and a capstone.
 
-</div>
+### Kubernetes / EKS
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=flat-square&logo=kubernetes)](https://github.com/Ashokkunchala/Kubernetes-EKS-Learning)
+
+A practical Kubernetes/EKS path covering core Kubernetes, networking, security, storage, observability, autoscaling, GitOps and production operations.
+
+### Terraform
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat-square&logo=terraform)](https://github.com/Ashokkunchala/Terraform)
+
+A structured learning path from Terraform fundamentals through AWS infrastructure, modules, state, enterprise design and capstone projects.
+
+### Ansible
+[![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat-square&logo=ansible)](https://github.com/Ashokkunchala/Ansible)
+
+A 60-day path covering inventory, playbooks, modules, variables, roles, templates, Vault, idempotency, CI validation, AWS inventory and production automation.
+
+### Python + Boto3
+[![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python)](https://github.com/Ashokkunchala/Python-Boto3)
+
+Starts from zero Python and progresses through Python automation, testing, Boto3, AWS inventory, multi-region/account patterns and production-oriented tooling.
 
 ---
 
-## `contact --help`
+## DevOps Workflow
+
+```text
+Plan
+  ↓
+Code / IaC / Automation
+  ↓
+Validate → Lint → Security Checks → Test
+  ↓
+CI/CD
+  ↓
+AWS / Kubernetes / Containers
+  ↓
+Observe → Troubleshoot → Improve → Document
+```
+
+---
+
+## Engineering Principles
+
+**Discover → Validate → Plan → Apply → Verify → Report → Recover**
+
+I use this mindset across infrastructure and automation work:
+
+- Prefer repeatable and idempotent changes
+- Validate before applying
+- Keep secrets out of source control
+- Use least-privilege access
+- Make failures visible
+- Document troubleshooting and recovery
+- Treat labs and production automation differently
+
+---
+
+## Selected Projects
+
+- [EKS Demo](https://github.com/Ashokkunchala/eks-demo)
+- [ECS Demo](https://github.com/Ashokkunchala/ecs-demo)
+- [Multi-Branch Jenkins Pipelines](https://github.com/Ashokkunchala/multi-branch-pipelines)
+- [Jenkins CI/CD + AI Monitoring](https://github.com/Ashokkunchala/Jenkins-CICD-AI-Monitoring)
+- [AI Answer Agent](https://github.com/Ashokkunchala/AI-answer-Agent)
+- [JobOps AI](https://github.com/Ashokkunchala/jobops-ai)
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashok-kunchala-127820217">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ashokkunchala10299@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ashokkunchala">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1fZSEfg2T4YuordNXl0Wav3fOe_3dezIX/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashokkunchala&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashokkunchala&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashokkunchala&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
 
+## Connect
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=%E2%AD%90+Automate+Everything+That+Can+Be+Automated+%E2%AD%90" alt="Tagline"/>
-  <br/><br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  <a href="https://www.linkedin.com/in/ashok-kunchala-127820217/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Ashokkunchala"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+<p align="center">
+  <sub>Cloud · Automation · Reliability · Continuous Learning</sub>
 </p>
