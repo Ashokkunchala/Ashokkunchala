@@ -25,6 +25,49 @@ My repositories focus on practical engineering: repeatable labs, infrastructure 
 
 ---
 
+## Professional Snapshot
+
+**AWS DevOps Engineer | Python & CI/CD | Cloud Infrastructure**
+
+3+ years of experience across AWS DevOps, Python automation, CI/CD, infrastructure as code, containers and production operations. My recent work includes AWS automation with Python/Boto3, Jenkins and GitLab pipelines, Terraform/CloudFormation, Docker/Kubernetes, monitoring, troubleshooting and security controls. fileciteturn677file0L6-L12
+
+### Measurable Impact
+
+| Area | Resume-backed impact |
+|---|---|
+| Automation | Automated 10+ operational tasks and saved ~6 hours/week |
+| CI/CD | Enabled 15+ weekly deployments and reduced manual release effort by 40% |
+| Reliability | Supported 99.9% uptime and reduced incident detection time by 40% |
+| Operations | Reduced MTTR from 45 to 31 minutes across 12 production microservices |
+| Security | Reduced container vulnerabilities by 60% using Trivy/Snyk in CI/CD and ECR workflows |
+| Mentoring | Mentored 3 junior developers and contributed to a reported 25% team-velocity improvement |
+
+These figures are taken directly from the supplied resume. fileciteturn677file0L13-L24
+
+### Experience Snapshot
+
+**DevOps Engineer — Loyalty Methods Pvt. Ltd. · Hyderabad · Feb 2024–Mar 2026**
+
+Python/Boto3/Shell automation, ECS/EC2/EBS validation and cleanup, inventory auditing, health checks, REST integrations, SQS, Jenkins/GitLab CI/CD, GitHub, Docker, ECR, Terraform, CloudFormation, Kubernetes, testing, RCA, IAM, Secrets Manager, CloudWatch, Grafana and ELK. fileciteturn677file0L42-L56 fileciteturn677file0L58-L73
+
+**DevOps Engineer — Relevance Lab Pvt. Ltd. · Bangalore · Oct 2022–Oct 2023**
+
+Python/Lambda automation, Amazon EKS/Kubernetes, Docker, Helm, Terraform, CloudFormation, Jenkins, GitLab CI/CD, Ansible, CloudWatch, Prometheus and Grafana across multi-namespace/multi-cluster environments. fileciteturn677file0L74-L90
+
+### Certifications
+
+- AWS Certified Cloud Practitioner (CLF-C01)
+- Microsoft Azure Fundamentals (AZ-900)
+- GUVI Python Certification
+- AWS Certified Solutions Architect – Associate — **In Progress**
+- Certified Kubernetes Administrator (CKA) — **In Progress** fileciteturn677file0L36-L41
+
+### Portfolio
+
+🌐 [Personal Portfolio](https://ashok-kunchala-portfolio.pages.dev)
+
+---
+
 ## Featured Repositories
 
 | Repository | Focus |
